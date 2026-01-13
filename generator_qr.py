@@ -1,6 +1,6 @@
 import qrcode
 
-texto = ""
+texto = "https://github.com/heyiamdavid/programacion_estructurada"
 
 qr = qrcode.QRCode(version=1,
                     box_size=10,
