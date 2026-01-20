@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "arroz con pollo",
+        "tipo": "merienda",
+        "precio": 130.0,
+        "cantidad": 200
+    },
+    {
+        "id": 2,
+        "nombre": "arroz con pollo",
+        "tipo": "almuerzo",
+        "precio": 120.0,
+        "cantidad": 200
+    }
+]
